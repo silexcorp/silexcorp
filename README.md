@@ -1,6 +1,6 @@
 ### We are Okan
 
-![weareokan (Medium)](https://user-images.githubusercontent.com/13637191/120894528-1de2ad00-c5d6-11eb-9800-c7bb0127906c.jpg)
+![weareokan_2](https://user-images.githubusercontent.com/13637191/120913798-0dbee200-c657-11eb-9b30-98e517216742.jpg)
 
 <!--
 **silexcorp/silexcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

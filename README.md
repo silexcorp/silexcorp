@@ -2,6 +2,12 @@
 
 ![weareokan_2](https://user-images.githubusercontent.com/13637191/120913798-0dbee200-c657-11eb-9b30-98e517216742.jpg)
 
+### Store
+
+[Google](https://play.google.com/store/apps/dev?id=7242794089742642803&hl)
+
+[Apple](https://apps.apple.com/us/)
+
 <!--
 **silexcorp/silexcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

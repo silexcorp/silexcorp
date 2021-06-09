@@ -4,9 +4,9 @@
 
 ### Store
 
-[Google](https://play.google.com/store/apps/dev?id=7242794089742642803&hl)
+[Google Play](https://play.google.com/store/apps/dev?id=7242794089742642803&hl)
 
-[Apple](https://apps.apple.com/us/)
+[Apple Store](https://apps.apple.com/us/)
 
 <!--
 **silexcorp/silexcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

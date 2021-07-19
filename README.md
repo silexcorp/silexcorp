@@ -7,11 +7,7 @@
 
 [App Store](https://weareokan.com/project/#app-store){:target="_blank"}
 
-[link](https://vk.com){:target="_blank"}
-
-[Google](https://google.com" target="_blank)
-
-[Hello, world!](http://example.com/){target="_blank"}
+<a href="http://example.com/" target="_blank">example</a>
 
 <!--
 **silexcorp/silexcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

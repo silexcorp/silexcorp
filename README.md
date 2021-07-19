@@ -9,6 +9,8 @@
 
 <a href="http://example.com/" target="_blank">example</a>
 
+<a href="https://example.com" target="_blank" rel="noopener"><span>Example Text</span> </a>.
+
 <!--
 **silexcorp/silexcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

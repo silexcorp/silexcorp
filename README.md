@@ -3,13 +3,10 @@
 ![weareokan_2](https://user-images.githubusercontent.com/13637191/120913798-0dbee200-c657-11eb-9b30-98e517216742.jpg)
 
 ### Store
-[Google Play](https://weareokan.com/project/#google-play){:target="_blank"}
+📱[Google Play](https://weareokan.com/project/#google-play)
 
-[App Store](https://weareokan.com/project/#app-store){:target="_blank"}
+📱[App Store](https://weareokan.com/project/#app-store)
 
-<a href="http://example.com/" target="_blank">example</a>
-
-<a href="https://example.com" target="_blank" rel="noopener"><span>Example Text</span> </a>.
 
 <!--
 **silexcorp/silexcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

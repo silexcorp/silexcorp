@@ -3,10 +3,8 @@
 ![weareokan_2](https://user-images.githubusercontent.com/13637191/120913798-0dbee200-c657-11eb-9b30-98e517216742.jpg)
 
 ### Store
-
-[Google Play](https://play.google.com/store/apps/dev?id=7242794089742642803&hl)
-
-[Apple Store](https://apps.apple.com/us/developer/marco-alexander-mateo-mateo/id1570311109)
+[Google Play](https://weareokan.com/project/#google-play){:target="_blank" rel="noopener"}
+[App Store](https://weareokan.com/project/#app-store){:target="_blank" rel="noopener"}
 
 <!--
 **silexcorp/silexcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

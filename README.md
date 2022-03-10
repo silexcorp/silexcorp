@@ -5,8 +5,8 @@
 
 ### Store
 
-[![appstore](https://alexandermateo.com/assets/assets/contact/about/appstore.png)](link)
-[![googleplay](https://alexandermateo.com/assets/assets/contact/about/googleplay.png)](link)
+[![appstore](https://alexandermateo.com/assets/assets/contact/about/appstore.png)](https://apps.apple.com/us/developer/marco-alexander-mateo-mateo/id1570311109)
+[![googleplay](https://alexandermateo.com/assets/assets/contact/about/googleplay.png)](https://play.google.com/store/apps/dev?id=7242794089742642803&hl)
 
 ### Contact
 [![stackoverflow](https://alexandermateo.com/assets/assets/contact/about/stackoverflow.png)](https://stackoverflow.com/users/9960358/silexcorp)

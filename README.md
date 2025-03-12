@@ -19,12 +19,11 @@
 [![linkedin](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/silexcorp)
 [![instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg)](https://www.instagram.com/silexcorp)
 [![facebook](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/facebook.svg)](https://www.facebook.com/silexcorp)
-[![twitter](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg)](https://twitter.comjs/silexcorp)
+[![twitter](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg)](https://twitter.com/silexcorp)
 [![pinterest](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/pinterest.svg)](https://www.pinterest.com/silexcorp)
 [![youtube](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/youtube.svg)](https://www.youtube.com/silexcorp)
 [![gitlab](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/gitlab.svg)](https://gitlab.com/silexcorp)
 [![github](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/github.svg)](https://github.com/silexcorp)
-[![gitlab](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/gitlab.svg)](https://gitlab.com/silexcorp)
 
 <!--
 [![platzi](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/platzi.svg)](https://platzi.com/p/silexcorp)

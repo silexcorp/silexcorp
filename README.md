@@ -1,35 +1,37 @@
 <!-- ### [We are Okan](https://weareokan.com/) -->
 ### [Alexander Mateo](https://weareokan.com/)
-[![weareokan](https://github.com/silexcorp/silexcorp/assets/13637191/333c65f6-0597-431c-a3bc-5cd248a3efeb)](https://www.alexandermateo.com)
+[![weareokan](https://github.com/silexcorp/silexcorp/assets/13637191/333c65f6-0597-431c-a3bc-5cd248a3efeb)](https://www.weareokan.com)
 
 ### Store
 
-[![appstore](https://alexandermateo.com/assets/assets/contact/about/appstore.png)](https://apps.apple.com/us/developer/marco-alexander-mateo-mateo/id1570311109)
-[![googleplay](https://alexandermateo.com/assets/assets/contact/about/googleplay.png)](https://play.google.com/store/apps/dev?id=7242794089742642803&hl)
+[![appstore](https://skillicons.dev/icons?i=apple&theme=dark)](https://apps.apple.com/us/developer/marco-alexander-mateo-mateo/id1570311109)
+[![googleplay](https://skillicons.dev/icons?i=androidstudio&theme=dark)](https://play.google.com/store/apps/dev?id=7242794089742642803&hl)
+
+### Skills & Tools & Cloud
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,kotlin,dart,flutter,nodejs,c,qt,cs,dotnet,git,github,docker,kubernetes,py,pycharm,anaconda,androidstudio,blender,discord,figma,notion,linux,windows,vscode,firebase,gcp,heroku,mongodb,mysql&theme=dark)](https://weareokan.com)
+
 
 ### Contact
 
-[![stackoverflow](https://alexandermateo.com/assets/assets/contact/about/stackoverflow.png)](https://stackoverflow.com/users/9960358/silexcorp)
-[![tiktok](https://alexandermateo.com/assets/assets/contact/about/tiktok.png)](https://www.tiktok.com/@silexcorp)
-[![Linkedin](https://alexandermateo.com/assets/assets/contact/about/linkedin.png)](https://www.linkedin.com/in/silexcorp)
-[![instagram](https://alexandermateo.com/assets/assets/contact/about/instagram.png)](https://www.instagram.com/silexcorp)
-[![facebook](https://alexandermateo.com/assets/assets/contact/about/facebook.png)](https://www.facebook.com/silexCorp)
-[![twitter](https://alexandermateo.com/assets/assets/contact/about/twitter.png)](https://twitter.com/silexcorp)
-[![vk](https://alexandermateo.com/assets/assets/contact/about/vk.png)](https://vk.com/silexcorp)
-[![artstation](https://alexandermateo.com/assets/assets/contact/about/artstation.png)](https://www.artstation.com/silexcorp)
-[![pinterest](https://alexandermateo.com/assets/assets/contact/about/pinterest.png)](https://www.pinterest.com/silexcorp)
-[![platzi](https://alexandermateo.com/assets/assets/contact/about/platzi.png)](https://platzi.com/p/silexcorp/)
-[![youtube](https://alexandermateo.com/assets/assets/contact/about/youtube.png)](https://www.youtube.com/silexcorp)
-[![behance](https://alexandermateo.com/assets/assets/contact/about/behance.png)](https://www.behance.net/silexcorp)
-[![bitbucket](https://alexandermateo.com/assets/assets/contact/about/bitbucket.png)](https://bitbucket.org/silexcorp)
-[![gitlab](https://alexandermateo.com/assets/assets/contact/about/gitlab.png)](https://gitlab.com/silexcorp)
-[![sketchfab](https://alexandermateo.com/assets/assets/contact/about/sketchfab.png)](https://sketchfab.com/silexcorp)
-[![github](https://alexandermateo.com/assets/assets/contact/about/github.png)](https://github.com/silexcorp)
+[![stackoverflow](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/discord.svg)](https://stackoverflow.com/users/9960358/silexcorp)
+[![tiktok](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/tiktok.svg)](https://www.tiktok.com/@silexcorp))
+[![linkedin](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/silexcorp)
+[![instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg)](https://www.instagram.com/silexcorp)
+[![facebook](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/facebook.svg)](https://www.facebook.com/silexcorp)
+[![twitter](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg)](https://twitter.comjs/silexcorp)
+[![pinterest](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/pinterest.svg)](https://www.pinterest.com/silexcorp)
+[![youtube](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/youtube.svg)](https://www.youtube.com/silexcorp)
+[![gitlab](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/gitlab.svg)](https://gitlab.com/silexcorp)
+[![github](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/github.svg)](https://github.com/silexcorp)
+[![gitlab](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/gitlab.svg)](https://gitlab.com/silexcorp)
 
-
-<!--### Socials
-
-<p align="left"> <a href="https://www.github.com/silexcorp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/silexcorp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/silexcorp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/silexcorp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<!--
+[![platzi](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/platzi.svg)](https://platzi.com/p/silexcorp)
+[![artstation](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/artstation.svg)](https://www.artstation.com/silexcorp)
+[![behance](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/behance.svg)](https://www.behance.net/silexcorp)
+[![bitbucket](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/bitbucket.svg)](https://bitbucket.org/silexcorp)
+[![sketchfab](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/sketchfab.svg)](https://sketchfab.com/silexcorp)
 -->
 
 ### Badges

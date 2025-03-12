@@ -1,5 +1,5 @@
 <!-- ### [We are Okan](https://weareokan.com/) -->
-### [Alexander Mateo](https://alexandermateo.com/)
+### [Alexander Mateo](https://weareokan.com/)
 [![weareokan](https://github.com/silexcorp/silexcorp/assets/13637191/333c65f6-0597-431c-a3bc-5cd248a3efeb)](https://www.alexandermateo.com)
 
 ### Store

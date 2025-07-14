@@ -15,7 +15,8 @@
 ### Contact
 
 [![stackoverflow](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/discord.svg)](https://stackoverflow.com/users/9960358/silexcorp)
-[![tiktok](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/tiktok.svg)](https://www.tiktok.com/@silexcorp))
+[![twitter](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg)](https://twitter.com/silexcorp)
+[![tiktok](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/tiktok.svg)](https://www.tiktok.com/@silexcorp)
 [![linkedin](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/silexcorp)
 [![instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg)](https://www.instagram.com/silexcorp)
 [![facebook](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/facebook.svg)](https://www.facebook.com/silexcorp)
@@ -25,7 +26,6 @@
 [![github](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/github.svg)](https://github.com/silexcorp)
 
 <!--
-[![twitter](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg)](https://twitter.com/silexcorp)
 [![platzi](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/platzi.svg)](https://platzi.com/p/silexcorp)
 [![artstation](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/artstation.svg)](https://www.artstation.com/silexcorp)
 [![behance](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/behance.svg)](https://www.behance.net/silexcorp)

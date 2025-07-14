@@ -9,7 +9,7 @@
 
 ### Skills & Tools & Cloud
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,kotlin,dart,flutter,nodejs,c,qt,cs,dotnet,git,github,docker,kubernetes,py,pycharm,anaconda,androidstudio,blender,discord,figma,notion,linux,windows,vscode,firebase,gcp,heroku,mongodb,mysql&theme=dark)](https://weareokan.com)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,dart,flutter,cs,dotnet,git,github,docker,py,pycharm,androidstudio,blender,discord,figma,notion,linux,windows,vscode,firebase,gcp,mysql&theme=dark)](https://weareokan.com)
 
 
 ### Contact
@@ -26,6 +26,8 @@
 [![github](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/github.svg)](https://github.com/silexcorp)
 
 <!--
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,kotlin,dart,flutter,nodejs,c,qt,cs,dotnet,git,github,docker,kubernetes,py,pycharm,anaconda,androidstudio,blender,discord,figma,notion,linux,windows,vscode,firebase,gcp,heroku,mongodb,mysql&theme=dark)](https://weareokan.com)
+
 [![platzi](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/platzi.svg)](https://platzi.com/p/silexcorp)
 [![artstation](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/artstation.svg)](https://www.artstation.com/silexcorp)
 [![behance](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/behance.svg)](https://www.behance.net/silexcorp)

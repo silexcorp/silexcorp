@@ -6,7 +6,7 @@
 
 [![appstore](https://skillicons.dev/icons?i=apple&theme=dark)](https://apps.apple.com/us/developer/marco-alexander-mateo-mateo/id1570311109)
 [![googleplay](https://skillicons.dev/icons?i=androidstudio&theme=dark)](https://play.google.com/store/apps/dev?id=7242794089742642803&hl)
-[![microsoft](https://skillicons.dev/icons?i=windows&theme=dark)](https://apps.microsoft.com/detail/9NM1P1KD1C91)
+[![microsoft](https://skillicons.dev/icons?i=windows&theme=dark)](https://apps.microsoft.com/search/publisher?name=We+are+Okan)
 
 ### Skills & Tools & Cloud
 

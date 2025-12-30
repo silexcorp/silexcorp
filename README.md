@@ -5,7 +5,7 @@
 ### Store
 
 [![appstore](https://avatars.githubusercontent.com/u/10639145?s=80&v=4)](https://apps.apple.com/us/developer/marco-alexander-mateo-mateo/id1570311109)
-[![googleplay](https://avatars.githubusercontent.com/u/32689599?s=80&v=4)](https://play.google.com/store/apps/dev?id=7242794089742642803&hl)
+[![googleplay](https://avatars.githubusercontent.com/u/32689599?s=80&v=4)](https://play.google.com/store/apps/dev?id=7242794089742642803)
 [![microsoft](https://avatars.githubusercontent.com/u/6154722?s=80&v=4)](https://apps.microsoft.com/search/publisher?name=We+are+Okan)
 [![epicgames](https://avatars.githubusercontent.com/u/6615685?s=80&v=4)](https://dev.epicgames.com/community/profile/organization/YPz5/we-are-okan)
 

@@ -16,17 +16,18 @@
 ### Contact
 
 [![stackoverflow](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/discord.svg)](https://stackoverflow.com/users/9960358/silexcorp)
-[![twitter](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg)](https://twitter.com/silexcorp)
-[![tiktok](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/tiktok.svg)](https://www.tiktok.com/@silexcorp)
 [![linkedin](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg)](https://www.linkedin.com/in/silexcorp)
-[![instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg)](https://www.instagram.com/silexcorp)
 [![facebook](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/facebook.svg)](https://www.facebook.com/silexcorp)
-[![pinterest](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/pinterest.svg)](https://www.pinterest.com/silexcorp)
 [![youtube](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/youtube.svg)](https://www.youtube.com/silexcorp)
 [![gitlab](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/gitlab.svg)](https://gitlab.com/silexcorp)
 [![github](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/github.svg)](https://github.com/silexcorp)
 
 <!--
+[![pinterest](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/pinterest.svg)](https://www.pinterest.com/silexcorp)
+[![instagram](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg)](https://www.instagram.com/silexcorp)
+[![twitter](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/twitter.svg)](https://twitter.com/silexcorp)
+[![tiktok](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/tiktok.svg)](https://www.tiktok.com/@silexcorp)
+
 [![My Skills](https://skillicons.dev/icons?i=java,js,ts,kotlin,dart,flutter,nodejs,c,qt,cs,dotnet,git,github,docker,kubernetes,py,pycharm,anaconda,androidstudio,blender,discord,figma,notion,linux,windows,vscode,firebase,gcp,heroku,mongodb,mysql&theme=dark)](https://weareokan.com)
 
 [![platzi](https://github.com/CLorant/readme-social-icons/blob/main/large/colored/platzi.svg)](https://platzi.com/p/silexcorp)
